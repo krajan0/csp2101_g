@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Karrthik Rajan
+#Student number: 10452682
+
 #guessAge=-1
 generate_random_age(){
  #min =20 , max =70 , RANDOM%41 will give 0 to 40
